@@ -1,0 +1,17 @@
+{
+  "name": "custom-event",
+  "version": "1.0.1",
+  "description": "javascript custom event.",
+  "homepage": "http://github.com/hechangmin/custom-event",
+  "main": "./lib/custom-event.min.js",
+  "keywords": ["event,custom-event"],
+  "author": {
+    "name": "hechangmin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hechangmin/custom-event.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
