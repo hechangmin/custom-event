@@ -26,4 +26,4 @@ var Mod1 = {
             alert(param);
         });
     }
-}
+};

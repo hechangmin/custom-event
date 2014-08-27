@@ -10,7 +10,7 @@ var App = {
             App.trigger('testEvent', 'hello world!');
         },1000);
     }
-}
+};
 
 var Mod1 = {
 
@@ -23,4 +23,4 @@ var Mod1 = {
             alert(param);
         });
     }
-}
+};
